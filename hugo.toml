@@ -1,6 +1,7 @@
 baseURL = 'https://snwiem.github.io/'
 languageCode = 'en-US'
 title = 'snwiem'
+theme = 'loveit'
 
 [caches]
   [caches.images]
